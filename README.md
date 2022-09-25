@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kayodeolusanya
-- 👀 I’m interested in data analytics 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on everything analytics
+- 👀 I’m interested in everything Data Analytics 
+- 🌱 I’m currently learning R and Python
+- 💞️ I’m looking to collaborate on everything Analytics
 - 📫 How to reach me olusanyakayode@yahoo.com 
 
 <!---
