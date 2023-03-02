@@ -17,10 +17,19 @@
   
   
 <h3 align="left">Featured Projects</h3>
-<p align="left"> <a href="" alt="" /></a>
+<p align="left"> <p>
 <p align="left"> <a href="https://github.com/kayodeolusanya/FIFA-WORLD-CUP-2002-2018"><img src="https://img.shields.io/badge/-FIFA_WORLD_CUP_2002_2018-black?logo=github&style=for-the-badge" alt="FIFA WORLD CUP 2002-2018" /></a>
+<p align="left"> The company wants to expand its business by adding new product lines. However, the Head of Growth and Strategy suggested that it was important to know the performance of the current products. <p>
+<p align="left">This is a Product Analytics done with Power Bi using Data Analysis Expressions(DAX) measures to gain key insights into the data.<p>
+  
+  
 <p align="left"> <a href="https://github.com/kayodeolusanya/NESTLE-PROJECT"><img src="https://img.shields.io/badge/-NESTLE_PROJECT-black?logo=github&style=for-the-badge" alt="NESTLE PROJECT" /></a>
+<p align="left"> The 21 World Cup tournaments have been won by eight national teams. Brazil have won five times, and they are the only team to have played in every tournament. The other World Cup winners are Germany and Italy, with four titles each; Argentina, France, and inaugural winner Uruguay, with two titles each; and England and Spain, with one title each.<p>
+<p align="left"> This dashboard shows the summary of all data in the World cup from 2002 to 2018. Microsoft Excel was used in cleaning the data and Power BI was used to design the dashboard.<p>
+  
+  
 <p align="left"> <a href="https://github.com/kayodeolusanya/Gift-Warieta-Coffee-Shop-Sales"><img src="https://img.shields.io/badge/-Coffee_Shop_Sales-black?logo=github&style=for-the-badge" alt="Coffee Shop Sales" /></a>
+<p align="left"> The Coffee Shop plans to scale her business based on their data. My duty as a Consultant Analyst, was to use the data provided to you in Microsoft Excel Format to develop a dashboard which will provide insights to the business using the Power BI Tool.<p>
 
 <!---
 kayodeolusanya/kayodeolusanya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
