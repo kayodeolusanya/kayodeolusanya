@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning R and Python
+- 🌱 I’m currently learning R
 
 - 💞️ I’m looking to collaborate on everything Analytics
 
