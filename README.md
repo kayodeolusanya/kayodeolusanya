@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning C#
 
-- 💞️ I’m looking to collaborate on everything Analytics and Software Development
+- 💞️ I’m looking to collaborate on everything Analytics
 
 - 📫 How to reach me olusanyakayode@yahoo.com 
 
