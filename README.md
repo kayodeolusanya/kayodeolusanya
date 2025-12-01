@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **I Love Data!**
   
+- 🎯 Visualization [Portfolio](https://kayodeolusanya.github.io/Visualization-Portfolio/index.html)
+  
   
 <h3 align="left">Featured Projects</h3>
 <p align="left"> <p>
